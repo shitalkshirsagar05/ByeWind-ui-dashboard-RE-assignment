@@ -45,11 +45,9 @@ Charts	Recharts
 Icons	React Icons
 Notifications	React Toastify
 Date Handling	Moment.js
-Deployment	Vercel / Netlify
+Deployment: Netlify
+
 📦 Installation & Setup
-# Clone the repo
-git clone https://github.com/yourusername/byewind-dashboard.git
-cd byewind-dashboard
 
 # Install dependencies
 npm install
