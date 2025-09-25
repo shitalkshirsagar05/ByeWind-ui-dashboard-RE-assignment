@@ -15,18 +15,9 @@ Real-time notifications
 
 Designed to provide a clean, responsive, and user-friendly interface with both light and dark themes.
 
-🚀 Live Demo
+🚀 Live Demo:
 
-👉 Click here to view live demo
-
-📱 Screenshots
-Dashboard – Light & Dark
-Light Mode	Dark Mode
-<img src="./src/assets/home-page-default.png" width="600"/>	<img src="./src/assets/home-page.png" width="600"/>
-Orders Page – Light & Dark
-Light Mode	Dark Mode
-<img src="./src/assets/order-page-default.png" width="600"/>	<img src="./src/assets/order-page.png" width="600"/>
-✅ Features
+👉 https://byewind-ui-dashboard-re-assignment.netlify.app/
 
 Light/Dark Theme Toggle with state persistence
 
